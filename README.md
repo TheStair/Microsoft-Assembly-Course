@@ -1,2 +1,2 @@
-# COMP-3350
-Course work for COMP 3350 at Auburn
+# Assembly Coursework
+Not naming the school, as to help prevent academic dishonesty.
